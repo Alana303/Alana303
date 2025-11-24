@@ -12,7 +12,8 @@
 - 🎓 **BBIT Graduate – Mount Kenya University**  
 - 💻 **Software Developer & Front-End Web Developer**  
 - 🔍 Passionate about <strong>solving real-world problems through code</strong>  
-- 🌱 Currently exploring: **Advanced JavaScript**, **SQL Optimization**, **Data Analysis**, **Machine Learning**  
+- 🌱 🌱 Currently exploring: **Frontend Frameworks & Libraries Optimization**, **Data Science & Analysis**, **AI & Machine Learning Concepts**, **Cybersecurity — Information & Network Security**
+  
 - 🤝 Open to: **Full-Stack Projects**, **UI/UX Redesigns**, **Data-Driven Applications**  
 - 📝 I love <strong>researching, writing technical documentation, and mentoring</strong> beginners  
 
