@@ -133,11 +133,14 @@ A Python-based project that analyzes sales data and visualizes insights using Pa
 ---
 
 ## 📫 Contact Me
-📧 **Email:** alanaesmeralda045@gmail.com / jeffamayo050@gmail.com  
-🔗 **LinkedIn:** [Jeff Amayo](https://www.linkedin.com/in/jeff-amayo-48a376333)  
-🐙 **GitHub:** [Alana303](https://github.com/Alana303)  
-📱 **WhatsApp:** +254 117 527 716  
-🌐 **Portfolio Website:** Coming soon  
+
+I’m always open to professional connections, collaborations, and project inquiries. You can reach me through:
+
+- 🔗 **LinkedIn:** [Jeff Amayo](https://www.linkedin.com/in/jeff-amayo-48a376333)  
+- 🐙 **GitHub:** [Alana303](https://github.com/Alana303)  
+- 🌐 **Portfolio Website:** Coming soon  
+
+> ⚡ *For private inquiries or collaboration requests, feel free to send a message via LinkedIn or GitHub.*
 
 ---
 
