@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm <strong>Jeff Fortune Amayo</strong> (Alana303)</h1>
-<h3 align="center">💻 Software Developer | 🎨 Front-End Engineer | 📊 Data Science Enthusiast | 🖌️ Certified Graphic Designer</h3>
+<h3 align="center">💻 Software Developer | 🎨 Front-End Engineer | 📊 Data Science Enthusiast | 🖌️ Certified Professional Graphic Designer</h3>
 
 <p align="center">
   Welcome to my GitHub profile!  
@@ -8,53 +8,53 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 **BBIT Graduate – Mount Kenya University**  
-- 💻 **Software Developer & Front-End Web Developer**  
+## 🚀 About Me  
+- 💻 **Software Developer, Professional Graphic Designer & Front-End Web Developer **
+- - 🎓 **BBIT Graduate – Mount Kenya University**
 - 🔍 Passionate about <strong>solving real-world problems through code</strong>  
 - 🌱 🌱 Currently exploring: **Frontend Frameworks & Libraries Optimization**, **Data Science & Analysis**, **AI & Machine Learning Concepts**, **Cybersecurity — Information & Network Security**
   
 - 🤝 Open to: **Full-Stack Projects**, **UI/UX Redesigns**, **Data-Driven Applications**  
-- 📝 I love <strong>researching, writing technical documentation, and mentoring</strong> beginners  
+- 📝 I love <strong>researching, writing technical documentation, coding, designing and mentoring</strong> beginners  
 
 ---
-
 ## 🛠️ Technical Skills
 
 ### 🧩 Languages & Frameworks
-- 🌐 **HTML5** (Proficient)  
-- 🎨 **CSS3** (Proficient)  
-- ⚡ **JavaScript** (Intermediate)  
-- 🐘 **PHP** (Learning & Improving)  
-- 🅱️ **Bootstrap** (Intermediate)  
-- 🗄️ **SQL** (Intermediate)  
+- 🌐 **HTML5 & CSS3** — Modern, responsive, and semantic markup  
+- ⚡ **Vanilla JavaScript** — Interactive and dynamic web applications  
+- ⚛️ **React.js** — Component-based frontend framework for building scalable UI  
+- 🐘 **PHP** — Backend scripting and server-side logic (Intermediate)  
+- 🅱️ **Bootstrap CSS** — Rapid responsive UI development  
+- 🗄️ **Advanced SQL & MySQL** — Database design, optimization, and management  
 
 ### 🗃️ Databases
-- 🐬 **MySQL**  
-- 🖥️ **phpMyAdmin**  
-- 🔐 **Secure Authentication & CRUD Systems**  
+- 🐬 **MongoDB** — NoSQL database for scalable applications  
+- 🐬 **MySQL** — Relational database management  
+- 🖥️ **phpMyAdmin** — Database administration and management  
+- 🔐 **Secure Authentication & CRUD Systems** — Building safe and robust systems  
 
 ### 🧰 Tools & Environments
-- 🐙 **Git & GitHub**  
-- 🧑‍💻 **Visual Studio Code**  
-- ✏️ **Sublime Text**  
-- 🛠️ **XAMPP**  
-- 🎨 **Adobe Photoshop**  
+- 🐙 **Version Control & Scripting:** Git, GitHub, Git Bash, Windows CMD, PowerShell  
+- 🧑‍💻 **Code Editors:** Visual Studio Code, Sublime Text  
+- 🛠️ **Development Environments:** XAMPP, LAMP Stack  
+- 🎨 **Design & Creative Tools:** Adobe Photoshop, Illustrator, Canva  
 
-### 🧠 Professional Strengths
-- 🎨 **UI/UX Front-End Implementation**  
-- 🗄️ **Database Integration**  
-- 🔐 **Authentication Systems**  
-- 📝 **Technical Documentation**  
-- 🤝 **Agile Collaboration**  
-- 📈 **Data-Driven Decision Making**  
+### 🧠 Core Professional Strengths
+- 🎨 **UI/UX  / Web Based Front-End Development** — Translating design into seamless user experiences  
+- 🗄️ **Database Design & Integration** — Efficient, optimized, and secure data management  
+- 🔐 **Authentication & Security Systems** — Protecting user data with robust practices  
+- 📝 **Technical Documentation & Research** — Clear, concise, and professional  
+- 🤝 **Agile Collaboration & Teamwork** — Delivering projects effectively in team environments  
+- 📈 **Data-Driven Decision Making** — Analyzing and implementing insights for smarter solutions  
+
 
 ---
 
 ## 📁 Featured Projects
 
 ### 🌐 Frontend Projects
-**Clean, interactive, and visually appealing interfaces**.
+**Clean, interactive, and visually appealing interfaces with maintainable code**.
 
 #### 🛒 EcomVista — Informational E-Commerce Platform  
 A responsive multi-page website featuring secure authentication and engaging UI.  
@@ -81,14 +81,17 @@ A MySQL-based database management system for handling clinic appointments and tr
 ### ⚡ JavaScript Projects
 **Dynamic, interactive, and user-friendly web apps.**
 
-#### 💱 Currency Converter  
-A real-time currency converter using external APIs for accurate conversion rates.  
-**Tech:** HTML, CSS, Bootstrap, JavaScript  
-
 #### 🔢 Advanced JavaScript Calculator  
 Feature-rich calculator with full keyboard support, animated buttons, and a smart calculation-history feature.  
 **Tech:** HTML, CSS, JavaScript  
 🔗 [View Project](https://github.com/Alana303/JavaScript-Project-Advanced-Calculator.git)  
+
+
+
+#### 💱 Currency Converter  
+A real-time currency converter using external APIs for accurate conversion rates.  
+**Tech:** HTML, CSS, Bootstrap, JavaScript  
+🔗 [View Project](https://github.com/Alana303/CurrencyConverter.git)  
 
 ---
 
