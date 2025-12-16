@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm <strong>Jeff Fortune Amayo</strong> (Alana303)</h1>
-<h3 align="center">💻 Software Developer | 🎨 Front-End Engineer | 📊 Data Science Enthusiast | 🖌️ Certified Professional Graphic Designer</h3>
+<h3 align="center"> | 🎨 Front-End Web Developer | 📊 Data Science Enthusiast | 🖌️ Certified Professional Graphic Designer | 🏟CyberSecurity Enthusiast</h3>
 
 <p align="center">
   Welcome to my GitHub profile!  
